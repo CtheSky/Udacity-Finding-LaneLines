@@ -1,5 +1,5 @@
 # Finding Lane Lines on the Road
-This project is one of the projects os Udacity Self Drivering Car Nanodegree Program.  The goals / steps of this project are the following:
+This project is one of the projects of Udacity Self Drivering Car Nanodegree Program.  The goals / steps of this project are the following:
   - Make a pipeline that finds lane lines on the road
   - Reflect on your work in a written report
 
