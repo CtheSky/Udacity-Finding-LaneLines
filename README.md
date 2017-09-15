@@ -4,7 +4,7 @@ This project is one of the projects of Udacity Self Drivering Car Nanodegree Pro
   - Reflect on your work in a written report
 
 # Code
-Project code can be found in [P1.ipynb](https://github.com/CtheSky/udacity-finding-lanelines/blob/master/P1.ipynb)
+Project code can be found in [finding_lanelines.ipynb](https://github.com/CtheSky/Udacity-Finding-LaneLines/blob/master/finding_lanelines.ipynb)
 
 # Reflection
 ## Process Pipeline
